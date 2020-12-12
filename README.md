@@ -1,3 +1,4 @@
+<title> CS 532 project, forest fire dataset 
 Hello, this is my CS532 project related document. 
 forestfires.csv is the orignal data, forestfires.txt is the dataset description from original data set author. 
 Please download the forestfires.csv and run pro_processing.ipynb first to get the new training_data.csv, testing_data.csv, training_label.csv, testing_label.csv.
